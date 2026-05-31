@@ -1,0 +1,79 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="pageGlow" cx="50%" cy="0%" r="78%">
+      <stop offset="0%" stop-color="#ff2b2b" stop-opacity="0.20"/>
+      <stop offset="46%" stop-color="#8d0d0d" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#050304" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64 0H0V64" stroke="#fff1f1" stroke-opacity="0.028" stroke-width="1"/>
+    </pattern>
+
+    <linearGradient id="terminalBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#12090a" stop-opacity="0.94"/>
+      <stop offset="100%" stop-color="#080405" stop-opacity="0.94"/>
+    </linearGradient>
+
+    <filter id="nameGlow" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0.8  0 0.12 0 0 0  0 0 0.12 0 0  0 0 0 0.38 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="redLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff2b2b" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ff2b2b" stop-opacity="0.78"/>
+      <stop offset="100%" stop-color="#ff2b2b" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="430" rx="34" fill="#050304"/>
+  <rect width="1200" height="430" rx="34" fill="url(#pageGlow)"/>
+  <rect width="1200" height="430" rx="34" fill="url(#grid)"/>
+
+  <circle cx="1015" cy="204" r="205" stroke="#ff2b2b" stroke-opacity="0.045"/>
+  <circle cx="1015" cy="204" r="142" stroke="#ff2b2b" stroke-opacity="0.06"/>
+  <circle cx="1015" cy="204" r="78" stroke="#ff2b2b" stroke-opacity="0.075"/>
+
+  <rect x="122" y="72" width="956" height="286" rx="22" fill="url(#terminalBg)" stroke="#fff1f1" stroke-opacity="0.12"/>
+  <rect x="122" y="72" width="956" height="46" rx="22" fill="#fff1f1" fill-opacity="0.024"/>
+  <path d="M122 118H1078" stroke="#fff1f1" stroke-opacity="0.10"/>
+
+  <circle cx="151" cy="95" r="5.8" fill="#ff2b2b" fill-opacity="0.85"/>
+  <circle cx="172" cy="95" r="5.8" fill="#fff1f1" fill-opacity="0.16"/>
+  <circle cx="193" cy="95" r="5.8" fill="#fff1f1" fill-opacity="0.16"/>
+
+  <text x="224" y="100" font-family="Consolas, Menlo, monospace" font-size="13" fill="#8f7777">
+    diaboliko@root: ~/profile
+  </text>
+
+  <text x="168" y="169" font-family="Consolas, Menlo, monospace" font-size="15" fill="#8f7777">
+    <tspan fill="#ff6b6b">$</tspan> load identity
+  </text>
+
+  <text x="168" y="252" font-family="Consolas, Menlo, monospace" font-size="88" font-weight="760" letter-spacing="-7" fill="#fff1f1" filter="url(#nameGlow)">
+    diaboliko
+  </text>
+
+  <text x="540" y="252" font-family="Consolas, Menlo, monospace" font-size="88" font-weight="760" fill="#ff6b6b">
+    _
+    <animate attributeName="opacity" values="1;1;0;0;1" dur="1.05s" repeatCount="indefinite"/>
+  </text>
+
+  <rect x="168" y="274" width="422" height="1.4" fill="url(#redLine)">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="4.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="168" y="292" width="250" height="30" rx="15" fill="#fff1f1" fill-opacity="0.022" stroke="#ff2b2b" stroke-opacity="0.16"/>
+  <text x="182" y="312" font-family="Consolas, Menlo, monospace" font-size="12" fill="#8f7777">
+    developer profile initialized
+  </text>
+
+  <text x="168" y="342" font-family="Consolas, Menlo, monospace" font-size="15" fill="#d2b8b8">
+    full stack developer · python automation · discord bots · reverse engineering · cybersecurity
+  </text>
+</svg>
