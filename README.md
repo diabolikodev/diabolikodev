@@ -4,7 +4,7 @@
 
 <a href="https://diaboliko.dev"><img src="https://img.shields.io/badge/website-diaboliko.dev-8d0d0d?style=for-the-badge&labelColor=0d0809&color=8d0d0d" alt="website" /></a>&nbsp;
 <a href="https://bio.diaboliko.dev"><img src="https://img.shields.io/badge/bio-bio.diaboliko.dev-8d0d0d?style=for-the-badge&labelColor=0d0809&color=8d0d0d" alt="bio" /></a>&nbsp;
-<a href="mailto:contact@diaboliko.dev"><img src="https://img.shields.io/badge/contact-contact@diaboliko.dev-8d0d0d?style=for-the-badge&labelColor=0d0809&color=8d0d0d" alt="contact" /></a>
+<a href="mailto:contact@diaboliko.dev"><img src="https://img.shields.io/badge/email-contact@diaboliko.dev-8d0d0d?style=for-the-badge&labelColor=0d0809&color=8d0d0d" alt="email" /></a>
 
 <img src="./assets/interface.svg" alt="diaboliko developer interface" width="100%" />
 
