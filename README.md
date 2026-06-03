@@ -4,8 +4,6 @@
 <a href="https://bio.diaboliko.dev"><img src="https://img.shields.io/badge/personal%20hub-bio.diaboliko.dev-8d0d0d?style=for-the-badge&labelColor=0d0809&color=8d0d0d" alt="personal hub" /></a>&nbsp;
 <a href="mailto:contact@diaboliko.dev"><img src="https://img.shields.io/badge/contact-email-8d0d0d?style=for-the-badge&labelColor=0d0809&color=8d0d0d" alt="contact" /></a>
 
-<br><br>
-
 <img src="./assets/banner.svg" alt="diaboliko banner" width="100%" />
 
 <br><br>
