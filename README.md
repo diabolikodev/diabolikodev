@@ -6,11 +6,7 @@
 
 <img src="./assets/banner.svg" alt="diaboliko banner" width="100%" />
 
-<br>
-
 <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,git,linux,c,cpp,vscode" alt="Tech stack" />
-
-<br>
 
 <img src="./assets/interface.svg" alt="diaboliko developer interface" width="100%" />
 
