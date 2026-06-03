@@ -11,6 +11,7 @@
 <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,git,linux,c,cpp,vscode" alt="Tech stack" />
 
 <br>
+&nbsp;
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=diabolikodev&bg_color=050304&color=fff1f1&line=ff2b2b&point=ff6b6b&area=true&hide_border=true" alt="GitHub activity graph" />
 
