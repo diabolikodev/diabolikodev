@@ -6,13 +6,13 @@
 
 <img src="./assets/banner.svg" alt="diaboliko banner" width="100%" />
 
-<img src="./assets/interface.svg" alt="diaboliko developer interface" width="100%" />
-
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,git,linux,c,cpp,vscode" alt="Tech stack" />
 
 <br><br>
+
+<img src="./assets/interface.svg" alt="diaboliko developer interface" width="100%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=diabolikodev&bg_color=050304&color=fff1f1&line=ff2b2b&point=ff6b6b&area=true&hide_border=true" alt="GitHub activity graph" />
 
