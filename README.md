@@ -2,9 +2,15 @@
 
 <img src="./assets/banner.svg" alt="diaboliko banner" width="100%" />
 
+<br>
+
 <p align="center">
-  <a href="https://diaboliko.dev"><img src="https://img.shields.io/badge/website-diaboliko.dev-8d0d0d?style=for-the-badge&labelColor=0d0809&color=8d0d0d" alt="website" /></a><a href="https://bio.diaboliko.dev"><img src="https://img.shields.io/badge/bio-bio.diaboliko.dev-8d0d0d?style=for-the-badge&labelColor=0d0809&color=8d0d0d" alt="bio" /></a><a href="mailto:contact@diaboliko.dev"><img src="https://img.shields.io/badge/contact-contact@diaboliko.dev-8d0d0d?style=for-the-badge&labelColor=0d0809&color=8d0d0d" alt="contact" /></a>
+  <a href="https://diaboliko.dev"><img src="https://img.shields.io/badge/developer%20portal-diaboliko.dev-8d0d0d?style=for-the-badge&labelColor=0d0809&color=8d0d0d" alt="developer portal" /></a>
+  <a href="https://bio.diaboliko.dev"><img src="https://img.shields.io/badge/personal%20hub-bio.diaboliko.dev-8d0d0d?style=for-the-badge&labelColor=0d0809&color=8d0d0d" alt="personal hub" /></a>
+  <a href="mailto:contact@diaboliko.dev"><img src="https://img.shields.io/badge/contact-email-8d0d0d?style=for-the-badge&labelColor=0d0809&color=8d0d0d" alt="contact" /></a>
 </p>
+
+<br>
 
 <img src="./assets/interface.svg" alt="diaboliko developer interface" width="100%" />
 
